@@ -1,0 +1,11 @@
+id_client,nom,prenom,email,adresse,code_postal,ville,pays,numero_telephone,date_inscription
+1,Dupont,Marie,marie.dupont@email.com,123 Rue des Fleurs,75001,Paris,France,123456789,2022-01-15
+2,Martin,Paul,paul.martin@email.com,456 Avenue du Soleil,31000,Toulouse,France,987654321,2022-02-10
+3,Leroux,Sophie,sophie.leroux@email.com,789 Rue Principale,44000,Nantes,France,456123789,2022-01-05
+4,Smith,John,john.smith@email.com,101 Main Street,10001,New York,USA,789012345,2022-03-05
+5,Garcia,Ana,ana.garcia@email.com,555 Calle Principal,28001,Madrid,Espagne,654321098,2022-02-20
+6,Kawamura,Takashi,takashi.kawamura@email.com,123 Sakura Street,150-0031,Tokyo,Japon,890123456,2022-01-10
+7,Santos,Maria,maria.santos@email.com,777 Avenida Principal,20040,Rio de Janeiro,Brésil,321098765,2022-02-15
+8,Chen,Li,li.chen@email.com,888 Main Road,200010,Shanghai,Chine,567890123,2022-01-25
+9,Müller,Anna,anna.muller@email.com,999 Hauptstraße,10115,Berlin,Allemagne,234567890,2022-03-02
+10,Yamamoto,Ken,ken.yamamoto@email.com,111 Ginza Street,104-0061,Tokyo,Japon,345678901,2022-03-01

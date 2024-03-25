@@ -1,0 +1,11 @@
+id_produit,nom_produit,categorie,prix,quantite_stock,date_arrivee,fournisseur,description,rabais,statut
+1,Ordinateur portable,Électronique,899.99,50,2022-01-15,TechStore,Ordinateur portable puissant avec processeur i5 et SSD 512 Go,0.05,Disponible
+2,Smartphone,Électronique,699.99,30,2022-02-10,GadgetWorld,Smartphone dernier cri avec caméra haute résolution,0.02,Disponible
+3,Chaussures de course,Vêtements et Accessoires,129.99,100,2022-01-05,SportsEmporium,Chaussures de course légères et confortables,0.1,Disponible
+4,Tablette,Électronique,499.99,25,2022-03-05,TechStore,Tablette performante avec écran tactile,0.03,Disponible
+5,Montre intelligente,Accessoires de mode,199.99,40,2022-02-20,FashionTech,Montre connectée avec suivi d'activité,0.08,Disponible
+6,Sac à dos,Sacs,49.99,80,2022-01-10,OutdoorGear,Sac à dos imperméable avec compartiment pour ordinateur portable,0.05,Disponible
+7,Appareil photo,Appareils photo,799.99,15,2022-02-15,PhotoWorld,Appareil photo professionnel avec capteur haute résolution,0.1,En commande
+8,Casque sans fil,Audio,129.99,60,2022-01-25,SoundHub,Casque audio sans fil avec annulation active du bruit,0.07,Disponible
+9,Tapis de yoga,Fitness,29.99,90,2022-03-02,WellnessCo,Tapis de yoga antidérapant et confortable,0.1,Disponible
+10,Livre de cuisine,Livres,24.99,20,2022-03-01,BookHaven,Recueil de recettes délicieuses et faciles à préparer,0,En rupture

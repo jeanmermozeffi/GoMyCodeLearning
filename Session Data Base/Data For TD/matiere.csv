@@ -1,0 +1,21 @@
+id_matiere,nom_matiere,description,coefficient
+1,"Mathématiques","Cours de mathématiques générales.",4
+2,"Français","Étude de la langue française et de la littérature.",3
+3,"Histoire","Cours d'histoire générale et de géographie.",2
+4,"Physique","Cours de physique et de chimie.",3
+5,"Chimie","Étude des composés chimiques et de leurs réactions.",3
+6,"Biologie","Cours de biologie générale et de sciences de la vie.",3
+7,"Géographie","Étude des phénomènes physiques et humains de la Terre.",2
+8,"Anglais","Cours d'anglais langue étrangère.",3
+9,"Informatique","Introduction aux concepts informatiques et à la programmation.",4
+10,"Musique","Étude de la musique et de ses principes fondamentaux.",2
+11,"Arts plastiques","Exploration des techniques artistiques et de la création visuelle.",2
+12,"EPS","Éducation physique et sportive.",2
+13,"Sciences économiques","Introduction aux principes de l'économie et de la gestion.",4
+14,"Philosophie","Réflexion sur les grandes questions philosophiques.",3
+15,"Langues étrangères","Étude de langues étrangères autres que l'anglais.",3
+16,"Théâtre","Cours d'art dramatique et de mise en scène.",2
+17,"Artisanat","Apprentissage des métiers manuels et des arts décoratifs.",2
+18,"Sociologie","Introduction à l'étude des phénomènes sociaux et culturels.",3
+19,"Psychologie","Étude du comportement humain et des processus mentaux.",4
+20,"Anthropologie","Analyse des cultures humaines et de la diversité culturelle.",3
