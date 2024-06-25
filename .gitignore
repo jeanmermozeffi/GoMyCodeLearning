@@ -1,7 +1,9 @@
 /01-Syntaxe Python
 /02-Session Python
 /03-Data Preprocessing
-./.ipynb_checkpoints
+/04-pandas-profilage
+/05-Data Visualization
+.ipynb_checkpoints
 
 
 .DS_Store
