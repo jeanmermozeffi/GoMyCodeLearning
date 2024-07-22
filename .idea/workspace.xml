@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56fc451e-2bbc-4536-9fe2-8ce41e6a9edc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/decente-gradient.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/introduction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataSets/07/house_prices.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/linear-regression-multiple.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/linear-regression-simple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/linear-regression.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
