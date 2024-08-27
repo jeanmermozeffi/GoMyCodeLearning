@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56fc451e-2bbc-4536-9fe2-8ce41e6a9edc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/Classification/knn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/Classification/logistic_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/Classification/notion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataSets/07/Iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/Classification/cross_validation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/Classification/decision_tree.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/linear-regression-multiple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/linear-regression-multiple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/decente-gradient.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/LinearRegression/decente-gradient.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/LinearRegression/introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/LinearRegression/introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/linear-regression-multiple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/LinearRegression/linear-regression-multiple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/linear-regression-simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/LinearRegression/linear-regression-simple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/polynomial_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/LinearRegression/polynomial_regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,11 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/jeanmermozeffi/Documents/GOMYCODE/GoMyCodeLearning&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/LinearRegression" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
