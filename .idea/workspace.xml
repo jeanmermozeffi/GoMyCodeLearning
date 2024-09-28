@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56fc451e-2bbc-4536-9fe2-8ce41e6a9edc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/07-Machine Learning/02-Apprentissage non superviser/checkkpoint/clustering_checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Deploy/app_streamlit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Deploy/doc_streamlit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Deploy/request_api.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/Classification/svm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07-Machine Learning/01-Apprentissage Supervise/Classification/svm.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -67,6 +72,11 @@
           <url>notebook:///Users/jeanmermozeffi/Documents/GOMYCODE/GoMyCodeLearning/07-Machine Learning/01-Apprentissage Supervise/polynomial_regression.ipynb</url>
           <line>39</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/jeanmermozeffi/Documents/GOMYCODE/GoMyCodeLearning/07-Machine Learning/01-Apprentissage Supervise/Classification/svm.ipynb</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
